@@ -1,0 +1,15 @@
+	Welcome to the Cannon War Game  
+   
+.Use arrow keys to move robot
+
+.Use up arrow key to fire
+
+.Press spacebar to pause/resume 
+
+.Level 2: Game speeds up, cannon health increased
+
+.Level 3: Speed doubled, no extra lives, double damage taken
+
+.Press 'back' to return back to the menu screen	
+
+	GOOD LUCK :)
