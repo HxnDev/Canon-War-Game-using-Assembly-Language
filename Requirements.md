@@ -27,7 +27,7 @@ Phase1 deals with the following:
 4. A statistic bar should be part of the gaming console.
 5. Load Instructions from file and display it initially.
 ```
-.
+![alt text](https://github.com/HxnDev/Canon-War-Game-using-Assembly-Language/blob/main/temp/1.png?raw=true)
 
 ## Phase 2
 
@@ -56,7 +56,7 @@ Phase 4 deals with the following:
 
 ## Summary:
 
-.
+![alt text](https://github.com/HxnDev/Canon-War-Game-using-Assembly-Language/blob/main/temp/2.png?raw=true)v
 
 ## Instructions
 ```
